@@ -7,6 +7,7 @@
 ## 版本
 - [x] python3 V4
 - [x] 基于https://github.com/cycz/jdBuyMask V2版本制作 不支持V3的方糖推送
+- [x] 已编译版本链接: https://pan.baidu.com/s/1UGODsDR2J1HYtH8m28Bu4Q 提取码: 33te
 
 ## 使用方法
 - [x]修改的地方（config.ini）：
