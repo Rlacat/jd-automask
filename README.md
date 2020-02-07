@@ -6,7 +6,7 @@
 或者下载后阅读帮助md或txt文件
 ## 版本
 - [x] python3 V4
-- [x] 基于https://github.com/cycz/jdBuyMask]github V2版本制作 不支持V3的方糖推送
+- [x] 基于https://github.com/cycz/jdBuyMask V2版本制作 不支持V3的方糖推送
 
 ## 使用方法
 - [x]修改的地方（config.ini）：
