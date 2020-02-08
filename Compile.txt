@@ -1,0 +1,1 @@
+pyinstaller -F 你的文件夹路径\jd-automask_V1.py

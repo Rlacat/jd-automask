@@ -1,51 +1,64 @@
 ****
-å¦‚æžœå¸®åŠ©åˆ°ä½ ï¼Œstarä¸€ä¸‹ï¼Œè°¢è°¢ä½ 
-æ­¦æ±‰åŠ æ²¹ï¼Œä¸­å›½åŠ æ²¹
+Èç¹û°ïÖúµ½Äã£¬starÒ»ÏÂ£¬Ð»Ð»Äã
+Îäºº¼ÓÓÍ£¬ÖÐ¹ú¼ÓÓÍ
 ****
-æœ¬ä»£ç ä½¿ç”¨æ–¹å¼ https://blog.csdn.net/cyz52/article/details/104177981
-æˆ–è€…ä¸‹è½½åŽé˜…è¯»å¸®åŠ©mdæˆ–txtæ–‡ä»¶
-## ç‰ˆæœ¬
-- [x] python3 V4
-- [x] åŸºäºŽhttps://github.com/cycz/jdBuyMask V2ç‰ˆæœ¬åˆ¶ä½œ ä¸æ”¯æŒV3çš„æ–¹ç³–æŽ¨é€
-- [x] å·²ç¼–è¯‘ç‰ˆæœ¬é“¾æŽ¥: https://pan.baidu.com/s/1UGODsDR2J1HYtH8m28Bu4Q æå–ç : 33te
+±¾´úÂëÊ¹ÓÃ·½Ê½ https://blog.csdn.net/cyz52/article/details/104177981 »òÕßÏÂÔØºóÔÄ¶ÁREADME.md
+100MµçÐÅÍøÂçÊµ²â1-2sË¢ÐÂ100¸öÉÌÆ·
+## °æ±¾
+- [x] python3 V1
+- [x] »ùÓÚhttps://github.com/cycz/jdBuyMask]github V3°æ±¾ÖÆ×÷
+- [x] ÒÑ±àÒë°æ±¾Á´½Ó£º
 
-## ä½¿ç”¨æ–¹æ³•
-- [x]ä¿®æ”¹çš„åœ°æ–¹ï¼ˆconfig.iniï¼‰ï¼š
--  é‚®ç®±ã€åœ°åŒºid
+## Ê¹ÓÃ·½·¨
+- 1.ÐÞ¸Ä£¨config.ini£©£ºµØÇøid¡¢ÍÆËÍ·½Ê½£¨Î¢ÐÅ¡¢ÓÊÏä¶þÑ¡Ò»£©
+- 2.´ò¿ªexeÔËÐÐ
 
-- [x] å•†å“skuidä¿®æ”¹æ–¹æ³•ï¼ˆconfig.iniï¼‰ï¼š
--  è°·æ­Œï¼ˆå†…æ ¸ï¼‰æµè§ˆå™¨è¦ç›‘æŽ§çš„å•†å“url
--  ä¸€ã€æŒ‰F12 ï¼Œç‚¹å¼€Nework
--  äºŒã€ç‚¹å‡»éœ€è¦çš„å•†å“ å’Œæ‰€åœ¨çš„åœ°åŒº
--  ä¸‰ã€ctrl+fæœç´¢ stockå¹¶ç‚¹å‡»
--  å››ã€å¤åˆ¶skuid
--  äº”ã€ä¿®æ”¹æˆ–è€…æ·»åŠ åœ¨config.iniå†…çš„skuids
+-  ÉÌÆ·skuidÐÞ¸Ä·½·¨£¨config.ini£©£º
+1.¹È¸è£¨ÄÚºË£©ä¯ÀÀÆ÷Òª¼à¿ØµÄÉÌÆ·url
+2.°´F12 £¬µã¿ªNework
+3.µã»÷ÐèÒªµÄÉÌÆ· ºÍËùÔÚµÄµØÇø
+4.ctrl+fËÑË÷ stock²¢µã»÷
+5.¸´ÖÆskuid
+6.ÐÞ¸Ä»òÕßÌí¼ÓÔÚconfig.iniÄÚµÄskuids
 
-- [x] åœ°åŒºidä¿®æ”¹æ–¹æ³•ï¼ˆconfig.iniï¼‰ï¼š
--  ä¸€ã€ç”¨è°·æ­Œï¼ˆå†…æ ¸ï¼‰æµè§ˆå™¨éšæ„æ‰“å¼€ä¸€ä¸ªäº¬ä¸œçš„ç½‘é¡µ
--  äºŒã€å³é”®ä½ çš„æ”¶è´§åœ°å€å¹¶ç‚¹å‡»å®¡æŸ¥å…ƒç´ 
--  ä¸‰ã€å¤åˆ¶é‚£ä¸²æ•°å­—ï¼Œå¹¶æŠŠ-ä¿®æ”¹æˆ_
--  å››ã€ä¿®æ”¹åœ¨config.iniå†…çš„areaid
+- µØÇøidÐÞ¸Ä·½·¨£¨config.ini£©£º
+1.ÓÃ¹È¸è£¨ÄÚºË£©ä¯ÀÀÆ÷ËæÒâ´ò¿ªÒ»¸ö¾©¶«µÄÍøÒ³
+2.ÓÒ¼üÄãµÄÊÕ»õµØÖ·²¢µã»÷Éó²éÔªËØ
+3.Ë«»÷²¢¸´ÖÆÄÇ´®Êý×Ö£¨xx-xx-xxxxx£©
+4.ÐÞ¸ÄÔÚconfig.iniÄÚµÄarea(area = xx-xx-xxxxx)
 
-## åŠŸèƒ½
-- [x] ç¡®è®¤æ˜¯å¦æœ‰è´§
-- [x] æœ‰è´§è‡ªåŠ¨ä¸‹å•
-- [x] é‚®ä»¶é€šçŸ¥
-- [x] æ‰«ç ç™»é™†
-- [x] æ— é™ä¸ªå•†å“æ”¯æŒ
+## ÔËÐÐÍ¼Æ¬
 
-## æ›´æ–°è®°å½•
-- ã€2020.02.07ã€‘å¢žåŠ æ‰«ç ç™»é™†ï¼Œè‡ªåŠ¨ä¿å­˜cookie
-- ã€2020.02.07ã€‘V4ç‰ˆæœ¬ï¼Œè§£å†³å•†å“ä¸ªæ•°é™åˆ¶
--   Code By Rlacat
+
+## ¹¦ÄÜ
+- [x] È·ÈÏÊÇ·ñÓÐ»õ
+- [x] ÓÐ»õ×Ô¶¯ÏÂµ¥
+- [x] ÓÊ¼þ¡¢Î¢ÐÅ£¨ÐèÒªÉêÇë·½ÌÇapi£©Í¨Öª
+- [x] É¨ÂëµÇÂ½
+- [x] ÎÞÏÞ¸öÉÌÆ·Ö§³Ö
+- [x] ¶àÏß³Ì¼«ËÙË¢ÐÂÍøÒ³
+
+
+## ¸üÐÂ¼ÇÂ¼
+- ¡¾2020.02.08¡¿ÐÞ¸´ÁËÒ»Ð©bug
+- ¡¾2020.02.08¡¿´ó·ùÓÅ»¯Ë¢ÐÂËÙ¶È£¬Ôö¼Ó¶àÏß³Ì¼¼Êõ£¨¿ÉÔÚÅäÖÃµ÷½ÚÏß³ÌÊý£©
+- ¡¾2020.02.08¡¿ÐÂÔöÎ¢ÐÅÍ¨Öª£¨http://sc.ftqq.com/3.version ²é¿´sc_key£©
+- ¡¾2020.02.08¡¿jd-automask_V1°æ±¾ÉÏÏß
+- ¡¾2020.02.07¡¿Ôö¼ÓÉ¨ÂëµÇÂ½£¬×Ô¶¯±£´æcookie
+- ¡¾2020.02.07¡¿V4°æ±¾£¬½â¾öÉÌÆ·¸öÊýÏÞÖÆ
+-  Code By Rlacat
+
 ------
 
-- ã€2020.02.06ã€‘V2ç‰ˆæœ¬ï¼Œåˆ·æ–°æ›´å¿«æ›´é¢‘ç¹ï¼Œé€šè¿‡é…ç½®æ–‡ä»¶æ·»åŠ å•†å“å’Œåœ°åŒºidã€‚
-- ã€2020.02.06ã€‘æäº¤å¤±è´¥ä¹‹åŽä¼šç»§ç»­ä¸ä¼šæš‚åœã€‚
-- ã€2020.02.06ã€‘è´­ç‰©è½¦æœ‰å¥—è£…å•†å“å¯¼è‡´è§£æžskuidé”™è¯¯ã€‚
-- ã€2020.02.05ã€‘å•†å“æœ‰è´§ï¼Œä½†æ˜¯è¯¥å•†å“å·²ä¸‹æŸœï¼Œæäº¤ä¼šæŠ¥é”™ï¼Œå¯¹éƒ¨åˆ†ä»£ç è¿›è¡Œäº†ä¼˜åŒ–ã€‚
--   Code By cycz
-## åé¦ˆé—®é¢˜
+- ¡¾2020.02.06¡¿V2°æ±¾£¬Ë¢ÐÂ¸ü¿ì¸üÆµ·±£¬Í¨¹ýÅäÖÃÎÄ¼þÌí¼ÓÉÌÆ·ºÍµØÇøid
+- ¡¾2020.02.06¡¿Ìá½»Ê§°ÜÖ®ºó»á¼ÌÐø²»»áÔÝÍ£
+- ¡¾2020.02.06¡¿¹ºÎï³µÓÐÌ××°ÉÌÆ·µ¼ÖÂ½âÎöskuid´íÎó
+- ¡¾2020.02.05¡¿ÉÌÆ·ÓÐ»õ£¬µ«ÊÇ¸ÃÉÌÆ·ÒÑÏÂ¹ñ£¬Ìá½»»á±¨´í£¬¶Ô²¿·Ö´úÂë½øÐÐÁËÓÅ»¯
+-  Code By cycz
 
-- å¦‚æžœæœ‰çº¢åŒ…å…ˆèŠ±æŽ‰å†å¼€è„šæœ¬ï¼Œä¸ç„¶å¯èƒ½éœ€è¦æ”¯ä»˜å¯†ç 
-- å…¶ä»–é—®é¢˜Githubæissues
+## ·´À¡ÎÊÌâ
+
+- Èç¹ûÓÐºì°üÏÈ»¨µôÔÙ¿ª½Å±¾£¬²»È»¿ÉÄÜÐèÒªÖ§¸¶ÃÜÂë
+- ÆäËûÎÊÌâGithubÌáissues£¬»òÕßË½ÐÅÎÒ£¡£¡
+- Èç¹ûÉÁÍË£¬Çë´ò¿ªÄ¿Â¼jdBuyMask.txtÎÄ¼þ²é¿´°ïÖúËµÃ÷
+- CMD½çÃæ¿¨×¡¡¢¹Ø±ÕCMDµÄ¿ìËÙ±à¼­Ä£Ê½¾ÍÐÐÁË
