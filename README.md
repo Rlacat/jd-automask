@@ -7,7 +7,7 @@
 ## 版本
 - [x] python3 V1
 - [x] 基于https://github.com/cycz/jdBuyMask]github V3版本制作
-- [x] 已编译版本链接：
+- [x] 已编译版本链接：链接: https://pan.baidu.com/s/1FqZP39ow_CrsAn0DfeRJ2w 提取码: 97wb
 
 ## 使用方法
 - 1.修改（config.ini）：地区id、推送方式（微信、邮箱二选一）
@@ -22,7 +22,7 @@
 6.修改或者添加在config.ini内的skuids
 
 - 地区id修改方法（config.ini）：
-1.用谷歌（内核）浏览器随意打开一个京东的网页
+1.用谷歌（内核）浏览器随意打开一个京东的有货商品网页（例子：https://item.jd.com/100004770235.html）
 2.右键你的收货地址并点击审查元素
 3.双击并复制那串数字（xx-xx-xxxxx）
 4.修改在config.ini内的area(area = xx-xx-xxxxx)
