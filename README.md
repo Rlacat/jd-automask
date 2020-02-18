@@ -10,7 +10,7 @@ exe版本[口罩小助手] 最多添加99种口罩
 100M电信网络实测1s刷新100+个商品
 ## 版本
 - [x] python3 a1
-- [x] 基于https://github.com/cycz/jdBuyMask]github 制作
+- [x] 基于https://github.com/cycz/jdBuyMask 制作
 
 ## 使用方法
 - [x]基本需要修改的地方（config.ini）：
